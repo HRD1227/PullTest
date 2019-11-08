@@ -3,3 +3,4 @@ Add develop branch
 Kirito Test
 SandouTest
 InuikawaTest
+eijiTest
